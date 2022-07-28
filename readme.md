@@ -14,4 +14,4 @@ Once post the first project, this one acts as a cheesecake. Took only **2 hrs**
 - class selectors
 
 ## Live Project link
-[Link] (https://liveproject2.netlify.app/ "Livelink")
+[Link](https://liveproject2.netlify.app "Livelink")
