@@ -13,4 +13,5 @@ Once post the first project, this one acts as a cheesecake. Took only **2 hrs**
 - float function
 - class selectors
 
-## Live link
+## Live Project link
+[Link] (https://liveproject2.netlify.app/ "Livelink")
